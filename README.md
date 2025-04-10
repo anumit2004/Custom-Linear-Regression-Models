@@ -1,1 +1,1 @@
-This repo contains some supervised learning algorithms .
+This repo contains Linear regression algorithms .
